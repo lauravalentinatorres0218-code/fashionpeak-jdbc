@@ -1,0 +1,36 @@
+================================================================
+ENLACE DEL REPOSITORIO - GA7-220501096-AA2-EV01
+Fashion Peak - Módulo CRUD con JDBC
+================================================================
+
+Autor:      Laura Valentina Torres Chaparro
+Ficha:      2977463
+Evidencia:  GA7-220501096-AA2-EV01
+
+----------------------------------------------------------------
+REPOSITORIO EN GITHUB:
+https://github.com/lauravalentinatorres0218-code/fashionpeak-jdbc.git
+----------------------------------------------------------------
+
+Instrucciones para clonar el repositorio:
+
+1. Abrir la terminal o Git Bash
+2. Ejecutar el siguiente comando:
+
+   git clone https://github.com/lauravalentinatorres0218-code/fashionpeak-jdbc.git
+
+3. Abrir el proyecto en el IDE de preferencia
+4. Ejecutar el script fashionpeak_db.sql en MySQL
+5. Configurar las credenciales en Conexion.java
+6. Ejecutar Main.java
+
+----------------------------------------------------------------
+Comandos Git utilizados en el proyecto:
+
+git init
+git add .
+git commit -m "feat: módulo CRUD Fashion Peak con JDBC"
+git branch -M main
+git remote add origin https://github.com/lauravalentinatorres0218-code/fashionpeak-jdbc.git
+git push -u origin main
+----------------------------------------------------------------
